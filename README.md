@@ -95,13 +95,6 @@ pygame-snake-pro/
 └─ README.md
 ```
 
----
-
-## 📸 Screenshots
-
-<img width="723" height="504" alt="image" src="https://github.com/user-attachments/assets/8363b33b-dc00-4f1b-9055-e3e2aeee7046" />
-
-
 
 ---
 
