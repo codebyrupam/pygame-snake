@@ -7,8 +7,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python">
   <img src="https://img.shields.io/badge/Pygame-2.0+-green.svg" alt="Pygame">
-  <img src="https://img.shields.io/github/license/your-username/snake-game-pro" alt="License">
-  <img src="https://img.shields.io/github/stars/your-username/snake-game-pro?style=social" alt="Stars">
+  <img src="https://img.shields.io/github/license/codebyrupam/snake-game-pro" alt="License">
+  <img src="https://img.shields.io/github/stars/codebyrupam/snake-game-pro?style=social" alt="Stars">
 </p>
 
 ---
